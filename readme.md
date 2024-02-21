@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Either Pattern
 
 Praticando o Padrão Either no Pest PHP
 
